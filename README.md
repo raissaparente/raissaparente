@@ -41,9 +41,9 @@ Feel free to check out my projects and connect with me!
       <img src="assets/altroo-thumb.png" width="260" alt="Altroo"/>
       <h3>Altroo</h3>
       <p style="max-width:250px">
-        A habit-building and reflection app where users track feelings, behaviors, and triggers through a simple, daily check-in flow.
+        An app for professional caretakers to monitor the patients health.
       </p>
-      <p><strong>Role:</strong> iOS Developer • SwiftUI • MVVM-C</p>
+      <p><strong>Role:</strong> iOS Developer • UIKit • MVVM-C</p>
       <p>
         <a href="https://apps.apple.com/br/app/altroo/id6746399372">
           <img src="https://img.shields.io/badge/↗︎%20Open-000000?style=flat&labelColor=white&color=000000"/>
@@ -72,10 +72,10 @@ Feel free to check out my projects and connect with me!
       </p>
     </td>
     <td align="top" width="280">
-      <img src="assets/gatherin-thumb.png" width="260" alt="GatherIn" />
+      <img src="assets/apothecaring-thumb.png" width="260" alt="Apothecaring" />
       <h3>GatherIn</h3>
       <p style="max-width:250px">
-        A social activity suggestion app that helps groups find the perfect activity based on energy levels, goals, and group dynamics.
+        A medication management app with a magical twist.
       </p>
       <p><strong>Role:</strong> iOS Developer • SwiftUI • NavigationPath</p>
       <p>
