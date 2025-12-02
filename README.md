@@ -90,7 +90,7 @@
     </td>
     <td align="top" width="280">
       <img src="apothecaring-thumb.png" width="260" alt="Apothecaring" />
-      <h3>GatherIn</h3>
+      <h3>Apothecaring</h3>
       <p style="max-width:250px">
         A medication management app with a magical twist.
       </p>
