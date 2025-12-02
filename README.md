@@ -29,7 +29,7 @@
       <br />
       <img
         src="https://nirzak-streak-stats.vercel.app/?user=raissaparente&theme=dark&hide_border=false"
-        width="300"
+        width="350"
         alt="GitHub Streak Stats" />
     </td>
   </tr>
@@ -85,7 +85,7 @@
       </p>
       <p>
         <img src="https://img.shields.io/badge/SpriteKit-000000?style=flat&logo=apple&logoColor=white" />
-        <img src="https://img.shields.io/badge/AVKit-000000?style=flat&logo=apple&logoColor=white" />
+        <img src="https://img.shields.io/badge/SwiftUI-000000?style=flat&logo=apple&logoColor=white" />
       </p>
     </td>
     <td align="top" width="280">
