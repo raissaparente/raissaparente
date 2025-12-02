@@ -1,26 +1,43 @@
-<img src="https://github.com/user-attachments/assets/6a2a821a-0bf2-43f8-b552-e2e0ffabc3be" width="350" align="right" alt="Raissa Memoji" style="margin-left: 20px; margin-bottom: 20px;" />
+<table style="border: none; border-collapse: collapse;">
+  <tr style="border: none;">
+    <!-- COLUNA ESQUERDA -->
+    <td style="border: none; vertical-align: top; padding-right: 20px;">
+      <p>
+        <img src="https://img.shields.io/badge/Swift-FF7043?style=flat&logo=swift&logoColor=white" />
+        <img src="https://img.shields.io/badge/SwiftUI-1565C0?style=flat&logo=swift&logoColor=white" />
+        <img src="https://img.shields.io/badge/SwiftData-7915C0?style=flat&logo=swift&logoColor=white" />
+        <img src="https://img.shields.io/badge/UIKit-C01515?style=flat&logo=apple&logoColor=white" />
+        <img src="https://img.shields.io/badge/Combine-2E7D32?style=flat&logo=apple&logoColor=white" />
+        <img src="https://img.shields.io/badge/API REST-412781?style=flat&logo=postman&logoColor=white" />
+        <img src="https://img.shields.io/badge/App Store-2288C3?style=flat&logo=appstore&logoColor=white" />
+      </p>
+      <h3>Hi there! I'm Raissa 👋</h3>
+      <p>I'm a passionate <strong>iOS Developer</strong> focused on building scalable apps with Swift and SwiftUI.</p>
+      <p><strong>Focus areas:</strong></p>
+      <ul>
+        <li>🔭 Working as an iOS developer at Apple Developer Academy</li>
+        <li>📚 Currently learning Combine</li>
+        <li>⚡ In my free time I dance and cook</li>
+      </ul>
+    </td>
+    <td style="border: none; vertical-align: top; text-align: right; width: 400px;">
+      <img
+        src="https://github.com/user-attachments/assets/6a2a821a-0bf2-43f8-b552-e2e0ffabc3be"
+        width="300"
+        alt="Raissa Memoji"
+        style="border-radius: 8px; margin-bottom: 12px;" />
+      <br />
+      <img
+        src="https://nirzak-streak-stats.vercel.app/?user=raissaparente&theme=dark&hide_border=false"
+        width="300"
+        alt="GitHub Streak Stats" />
+    </td>
+  </tr>
+</table>
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Swift-FF7043?style=flat&logo=swift&logoColor=white" alt="Swift" />
-  <img src="https://img.shields.io/badge/SwiftUI-1565C0?style=flat&logo=swift&logoColor=white" alt="SwiftUI" />
-  <img src="https://img.shields.io/badge/SwiftData-7915C0?style=flat&logo=swift&logoColor=white" alt="SwiftData" />
-  <img src="https://img.shields.io/badge/UIKit-C01515?style=flat&logo=apple&logoColor=white" alt="UIKit" />
-  <img src="https://img.shields.io/badge/Combine-2E7D32?style=flat&logo=apple&logoColor=white" alt="Combine" />
-  <img src="https://img.shields.io/badge/API REST-412781?style=flat&logo=postman&logoColor=white" alt="APIs" />
-  <img src="https://img.shields.io/badge/App Store-2288C3?style=flat&logo=appstore&logoColor=white" alt="AppStore" />
-</p>
 
-### Hi there! I'm Raissa 👋
 
-I'm a passionate **iOS Developer** focused on building scalable apps with Swift and SwiftUI.  
-
-### Focus areas:
-- 🔭 Working as an iOS developer at Apple Developer Academy  
-- 📚 Currently learning Combine  
-- ⚡ In my free time I dance and cook
-
-Feel free to check out my projects and connect with me!
-
+## 📬 Contact
 <p>
   <a href="https://www.linkedin.com/in/raissa-parente-70bb25162/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
@@ -33,8 +50,8 @@ Feel free to check out my projects and connect with me!
   </a>
 </p>
 
-![](https://nirzak-streak-stats.vercel.app/?user=raissaparente&theme=dark&hide_border=false)<br/>
 
+## 📱 Featured Projects
 <table>
   <tr>
     <td align="top" width="280">
