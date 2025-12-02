@@ -46,7 +46,7 @@ Feel free to check out my projects and connect with me!
       <p><strong>Role:</strong> iOS Developer • UIKit • MVVM-C</p>
       <p>
         <a href="https://apple.co/4pyjxaa">
-          <img src="https://img.shields.io/badge/↗︎%20Open-000000?style=flat&labelColor=white&color=000000"/>
+          <img src="https://img.shields.io/badge/↗︎%20AppStore-000000?style=flat&labelColor=white&color=000000"/>
         </a>
       </p>
       <p>
@@ -63,7 +63,7 @@ Feel free to check out my projects and connect with me!
       <p><strong>Role:</strong> iOS Game Developer • SpriteKit • Gameplay Logic</p>
       <p>
         <a href="https://apps.apple.com/br/app/into-the-cauldron/id6745516421">
-          <img src="https://img.shields.io/badge/↗︎%20Open-000000?style=flat&labelColor=white&color=000000"/>
+          <img src="https://img.shields.io/badge/↗︎%20AppStore-000000?style=flat&labelColor=white&color=000000"/>
         </a>
       </p>
       <p>
@@ -80,7 +80,7 @@ Feel free to check out my projects and connect with me!
       <p><strong>Role:</strong> iOS Developer • SwiftUI • NavigationPath</p>
       <p>
         <a href="https://apps.apple.com/br/app/apothecaring/id6737724009">
-          <img src="https://img.shields.io/badge/↗︎%20Open-000000?style=flat&labelColor=white&color=000000"/>
+          <img src="https://img.shields.io/badge/↗︎%20AppStore-000000?style=flat&labelColor=white&color=000000"/>
         </a>
       </p>
       <p>
