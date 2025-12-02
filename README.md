@@ -38,27 +38,27 @@ Feel free to check out my projects and connect with me!
 <table>
   <tr>
     <td align="top" width="280">
-      <img src="assets/altroo-thumb.png" width="260" alt="Altroo"/>
+      <img src="altroo-thumb.png" width="260" alt="Altroo"/>
       <h3>Altroo</h3>
       <p style="max-width:250px">
         An app for professional caretakers to monitor the patients health.
       </p>
       <p><strong>Role:</strong> iOS Developer • UIKit • MVVM-C</p>
       <p>
-        <a href="https://apps.apple.com/br/app/altroo/id6746399372">
+        <a href="https://apple.co/4pyjxaa">
           <img src="https://img.shields.io/badge/↗︎%20Open-000000?style=flat&labelColor=white&color=000000"/>
         </a>
       </p>
       <p>
-        <img src="https://img.shields.io/badge/SwiftUI-000000?style=flat&logo=swift&logoColor=white" />
+        <img src="https://img.shields.io/badge/UIKit-000000?style=flat&logo=swift&logoColor=white" />
         <img src="https://img.shields.io/badge/Combine-000000?style=flat&logo=apple&logoColor=white" />
       </p>
     </td>
     <td align="top" width="280">
-      <img src="assets/itc-thumb.png" width="260" alt="Into the Cauldron" />
+      <img src="itc-thumb.png" width="260" alt="Into the Cauldron" />
       <h3>Into the Cauldron</h3>
       <p style="max-width:250px">
-        A magical arcade-style game where players mix ingredients, serve unusual customers, and combine effects to craft unique potions.
+        A potion-making game with unusual storytelling.
       </p>
       <p><strong>Role:</strong> iOS Game Developer • SpriteKit • Gameplay Logic</p>
       <p>
@@ -72,14 +72,14 @@ Feel free to check out my projects and connect with me!
       </p>
     </td>
     <td align="top" width="280">
-      <img src="assets/apothecaring-thumb.png" width="260" alt="Apothecaring" />
+      <img src="apothecaring-thumb.png" width="260" alt="Apothecaring" />
       <h3>GatherIn</h3>
       <p style="max-width:250px">
         A medication management app with a magical twist.
       </p>
       <p><strong>Role:</strong> iOS Developer • SwiftUI • NavigationPath</p>
       <p>
-        <a href="https://github.com/raissaparente/GatherIn">
+        <a href="https://apps.apple.com/br/app/apothecaring/id6737724009">
           <img src="https://img.shields.io/badge/↗︎%20Open-000000?style=flat&labelColor=white&color=000000"/>
         </a>
       </p>
